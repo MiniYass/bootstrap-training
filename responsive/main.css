@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+}
+p{
+    background-color: lightgray;
+    margin: 5px;
+    padding: 5px;
+    color: black;
+    border:1px solid black;
+
+}
+.bloc{
+ 
+  padding:0;
+}
+
